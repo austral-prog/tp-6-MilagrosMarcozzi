@@ -30,9 +30,4 @@ def check_lists(list_to_compare1, list_to_compare2):
 
 def list_of_lists(list_of_lists_to_modify):
     lista_nueva = [list_of_lists_to_modify [0] [:2], list_of_lists_to_modify [1] [1:4], list_of_lists_to_modify [2] [-2:]]
-    print (lista_nueva)
     return lista_nueva
-
-
-def list_of_lists(list_of_lists_to_modify):
-    return "ANSWER HERE"  # Remove this line and implement
